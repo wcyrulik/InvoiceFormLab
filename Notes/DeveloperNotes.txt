@@ -1,0 +1,10 @@
+The need to allign text in the logo row drives you to use flex.
+Rows by default are "flex" giving you access to the allign and justify 
+features.  justify-content-start is the default, and is used here for clarity.
+
+Justify and allign also can use breakpoints to format the display differently
+for different screen sizes.
+
+    ex: justify-content-sm-end   -- this will justify the content to the right 
+        for small and larger devices.
+
